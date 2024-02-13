@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "BA9ZUNKF43.dog.denim.musicstacks",
+        "components": [
+          {
+            "/": "/share/*"
+          }
+        ]
+      }
+    ]
+  }
+}
